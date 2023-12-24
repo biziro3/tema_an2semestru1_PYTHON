@@ -1,0 +1,6 @@
+-in folderul cod se gasesc 2 fisiere de tip python , cel cu numele PRIMA_PARTE_COD_24_12_2023(si prima_parte_de_cod e acelasi lucru) este codul functional(24.12.2023), in care am reusit sa fac partea de intrerupere a timer-ului in momentul in care se introduce cardul bun
+
+-in documentul code.docx sunt bucati de code pe care le-am salvat ca si referinta(faceam teste sa vad daca mi iese ce vreau
+
+-in LINKU-URI_UTILE.docx sunt lunkuri pe care o sa le introduc ca referitna la documentatia proiectului final 
+
