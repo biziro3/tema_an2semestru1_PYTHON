@@ -3,4 +3,8 @@
 
 -in documentul code.docx sunt bucati de code pe care le-am salvat ca si referinta(faceam teste sa vad daca mi iese ce vreau
 
--in LINKU-URI_UTILE.docx sunt lunkuri pe care o sa le introduc ca referitna la documentatia proiectului final 
+-in LINKU-URI_UTILE.docx sunt lunkuri pe care o sa le introduc ca referitna la documentatia proiectului final
+
+26.12.2023
+-in folderul code am adaugati si cea de a 2 a parte a codului care este si cea finala 
+-am mai adaugat si un link catre git hub-ul celui de la care am luat biblioteca pt rfid
