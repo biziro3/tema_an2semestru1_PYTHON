@@ -5,3 +5,6 @@ https://www.instructables.com/Dual-Cores-Interrupts-on-Pi-Pico/
 
 CHAT GBT:
 https://chat.openai.com/share/94c98430-95df-4ef7-90f5-489854a2063b
+
+LINK BIBLIOTECI:
+https://github.com/danjperron/micropython-mfrc522?tab=readme-ov-file (pt rfid)
