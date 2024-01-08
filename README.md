@@ -2,6 +2,7 @@
 
 ##SISTEM DE SECURITATE CU RASPBERRY PI PICO W
 
+#Contributie Rocsin Dragos Teodor
 
 #Cum se rulează programul?
 
