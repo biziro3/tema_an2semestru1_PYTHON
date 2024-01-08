@@ -91,7 +91,7 @@ while True:
         sleep(0.5)
         _thread.start_new_thread(timer, ())
     if btn2.value() == 1:
-        sleep(5) # in momentul in care iesi din incaperea in care se afla sistemul , poti sa-l "anunti" ca iesi incaperea si se pregateste sa ia tot procesul de la inceput
+        sleep(5) # in momentul in care iesi din incaperea in care se afla sistemul , poti sa-l "anunti" ca iesi din incapere si se pregateste sa ia tot procesul de la inceput
         print("usa s-a inchis")
         sleep(.5)
         with lock:
