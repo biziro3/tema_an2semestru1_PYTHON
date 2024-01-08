@@ -7,7 +7,7 @@
 -text tetx te x
 
 
-# Contributie Rocsin Dragos Teodor
+# Contributie RDT
 
 ## Cum se rulează programul?
 
