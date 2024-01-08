@@ -2,19 +2,6 @@
 
 ##SISTEM DE SECURITATE CU RASPBERRY PI PICO W
 
-#Ce componente îți trebuie?
-
-- 2 LED-uri, unul verde, unul roșu
-- 3 butoane
-- 2 rezistențe de 220 ohmi, o rezistență de 1k ohm și 3 de 10k ohmi
-- 2n2222 (tranzistor de tip NPN)
-- un buzzer activ
-- un modul RFID_RD522
-- o plăcuță Raspberry Pi Pico W
-
-#Cum se montează circuitul?
-
-- Se urmărește **circuit.png** pentru asamblarea circuitului.
 
 #Cum se rulează programul?
 
