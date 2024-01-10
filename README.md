@@ -2,6 +2,9 @@
 
 ## SISTEM DE SECURITATE CU RASPBERRY PI PICO W
 
+# Ce face programul?
+-Aceasta aplicatie reprezinta un sistem de securitate. Sistemul asteapta dechiderea usii, iar in momentul deschiderii incepe patea de rulare a codului prin inceperea un timer si,in intervalul de x secunde (se poate odifica din cod), se doreste validarea unui card. Daca cardul nu este validat corect in intervalul de x secunde alarma incepe sa sune si se trimite un mesaj automat pe telegram de alerta.
+
 # Contributie Ghica Antonio Stefan
 
 # Despre ce este vorba in partea mea de cod
@@ -18,14 +21,14 @@ Codul urmator este doar o parte din proiectul de casa final. Acesta ar trebui sa
 
 
 
-# Contributie RDT
+# Contributie Rocsin Dragos Teodor
 
 ## Cum se rulează programul?
 
 - Se descarcă fișierul sistem_securitate.py în memoria internă a Raspberry Pi Pico W.
 - Pentru a rula programul fără a fi conectat la calculator, se schimbă numele fișierului **sistem_securitate.py** în **main.py**.
 
-##Ce trebuie instalat?
+## Ce trebuie instalat?
 
 - Se instalează IDE-ul Thonny, pentru a comunica cu microcontroler.
 - Trebuie instalată biblioteca pentru RFID, care se găsește în **Referințe**. După ce o descarci, se caută fișierul descărcat în Thonny la secțiunea **Files** și se descarcă în fișierul root al lui Raspberry Pi Pico W.
