@@ -14,9 +14,9 @@
 2. CUM SE RULEAZA
    - rularea programului se face apasand pe butonul de run din partea superioara a ecranului (in cazul in care folositi Pycharm) sau Run->Run Module (daca folositi Python IDLE)
 3. REFERINTE RELEVANTE
-  - [Getting Started: Using Raspberry Pi Pico W with Telegram Bot](https://www.youtube.com/watch?v=hHQu4O9OnVo)
-  - [How to create a Telegram Bot in Python](https://www.youtube.com/watch?v=URPIZZNr_2M)
-  - [Chat GPT](https://chat.openai.com/share/4d0a8dca-6bb5-41d2-89af-977259f9a3ca)
+     - [Getting Started: Using Raspberry Pi Pico W with Telegram Bot](https://www.youtube.com/watch?v=hHQu4O9OnVo)
+     - [How to create a Telegram Bot in Python](https://www.youtube.com/watch?v=URPIZZNr_2M)
+     - [Chat GPT](https://chat.openai.com/share/4d0a8dca-6bb5-41d2-89af-977259f9a3ca)
     
 
 
