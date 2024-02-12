@@ -33,6 +33,9 @@
 - Se instalează IDE-ul Thonny, pentru a comunica cu microcontroler.
 - Trebuie instalată biblioteca pentru RFID, care se găsește în **Referințe**. După ce o descarci, se caută fișierul descărcat în Thonny la secțiunea **Files** și se descarcă în fișierul root al lui Raspberry Pi Pico W.
 
+## Cum se monteaza piesele?
+- Se utilizeaza schema data(sistem.png)
+
 ## Cum se configureaza Thonny?
 
 - dupa ce se instaleaza ultima versiune [4.1.4](https://thonny.org/),se deschide meniul de Tools->Options->Interpreter si se alege MicroPython(Raspberry Pi Pico).Pentru a putea rula MicroPython,tot in fereastra cu Interpreter se apasa pe **Install or update MicroPython**.
