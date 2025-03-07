@@ -3,7 +3,7 @@
 ## SISTEM DE SECURITATE CU RASPBERRY PI PICO W
 
 # Care e scopul acestui proiect ? 
-- Acest proiect reprezintă un sistem de securitate care detectează momentul în care o ușă este deschisă și verifică dacă a fost validat un card care permite accesul în încăperea unde este instalat. Dacă nu a fost validat un card corespunzător, o alarmă va porni, iar o notificare va fi trimisă pe telefon prin intermediul unui bot de Telegram.
+- Acest proiect reprezinta un sistem de securitate care detecteaza momentul in care o usa este deschisa si verifica daca a fost validat un card care permite accesul în încaperea unde este instalat. Daca nu a fost validat un card corespunzator, iar o alarma o sa inceapa sa sune, si o notificare va fi trimisă pe telefon prin intermediul unui bot de Telegram.
 
 # Contributie Ghica Antonio Stefan
 
