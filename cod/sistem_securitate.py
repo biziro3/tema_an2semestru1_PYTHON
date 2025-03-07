@@ -30,7 +30,6 @@ def timer():
     global state, card_state, lock
     x = 5
     while x >= 0 and state: # prima conditie e pentru timer , ce a de a 2 a conditie (state) verifica daca usa e deschisa sau nu 
-#         with lock: protejeaza 
         if card_state == True:
             print("Cardul a fost validat\nAcces permis")
             return
@@ -44,8 +43,7 @@ def timer():
 def cardValidation():
     global card_state, btn3_state, lock
     lock.acquire()
-    card_state = True # cardul a fost validat 
-#     btn3_state = True  # Actualizează starea butonului btn3, inseama ca a fost apasat 
+    card_state = True # cardul a fost validat  
     lock.release()
 
 def green():
@@ -92,10 +90,7 @@ while True:
         with lock:
             state = False  #resetarea starii usii 
             card_state = False # resetarea starii cardului
-#             btn3_state = False  # Resetarea stării butonului btn3
-    
-#     if btn3.value() == 1:
-#         cardValidation()
+
     
     reader.init()
     (stat,tag_type) = reader.request(reader.REQIDL)
