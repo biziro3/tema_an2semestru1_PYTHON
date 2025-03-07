@@ -2,8 +2,8 @@
 
 ## SISTEM DE SECURITATE CU RASPBERRY PI PICO W
 
-# Ce face programul?
-- Aceasta aplicatie reprezinta un sistem de securitate. Sistemul asteapta dechiderea usii, iar in momentul deschiderii incepe patea de rulare a codului prin inceperea un timer si,in intervalul de x secunde (se poate odifica din cod), se doreste validarea unui card. Daca cardul nu este validat corect in intervalul de x secunde alarma incepe sa sune si se trimite un mesaj automat pe telegram de alerta.
+# Care e scopul acestui proiect ? 
+- Acest proiect reprezintă un sistem de securitate care detectează momentul în care o ușă este deschisă și verifică dacă a fost validat un card care permite accesul în încăperea unde este instalat. Dacă nu a fost validat un card corespunzător, o alarmă va porni, iar o notificare va fi trimisă pe telefon prin intermediul unui bot de Telegram.
 
 # Contributie Ghica Antonio Stefan
 
