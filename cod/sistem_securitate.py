@@ -1,8 +1,3 @@
-'''
-    pentu a folosi o alta sursa de alimentare , in afara de cea de la  usb
-    se recomanda folosirea pinului 39 VSYS 
-'''
-
 from machine import Pin
 from time import sleep
 import _thread
