@@ -24,7 +24,7 @@ btn3_state = False
 Keycard = [0x93, 0xAF, 0x86, 0x0E] #uid
 Keyfob = [0xEA, 0x62, 0xA7, 0xB1] #uid
 
-lock = _thread.allocate_lock()  # Definește lock global
+lock = _thread.allocate_lock()  # Defineste lock global
 
 def timer():
     global state, card_state, lock
